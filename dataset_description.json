@@ -2,7 +2,9 @@
     "Name": "neuroloki",
     "BIDSVersion": "1.7.0",
     "License": "CC0",
-    "Authors": [],
+    "Authors": [
+        "Krista Bond, Javier Rasero, Raghav Madan, Jyotika Bahuguna, Jonathan Rubin, and Timothy Verstynen"
+    ],
     "Acknowledgements": "We thank all members of the CoAx Lab and collaborators for their feedback on the development of this work.",
     "HowToAcknowledge": "Please cite the DOI for this OpenNeuro repository and, if appropriate, the publication (link TBD).",
     "Funding": [
