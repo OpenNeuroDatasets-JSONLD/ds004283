@@ -2,9 +2,7 @@
     "Name": "neuroloki",
     "BIDSVersion": "1.7.0",
     "License": "CC0",
-    "Authors": [
-        "Jonathan Rubin"
-    ],
+    "Authors": [],
     "Acknowledgements": "We thank all members of the CoAx Lab and collaborators for their feedback on the development of this work.",
     "HowToAcknowledge": "Please cite the DOI for this OpenNeuro repository and, if appropriate, the publication (link TBD).",
     "Funding": [
