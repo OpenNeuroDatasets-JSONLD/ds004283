@@ -1,0 +1,23 @@
+{
+    "Name": "neuroloki",
+    "BIDSVersion": "1.7.0",
+    "License": "GNU GPL v3.0",
+    "Authors": [
+        
+            "Krista Bond",
+            "Javier Rasero",
+            "Raghav Madan",
+            "Jyotika Bahuguna",
+            "Timothy Verstynen"
+        
+    ],
+    "Acknowledgements": "We thank all members of the CoAx Lab and collaborators for their feedback on the development of this work.",
+    "HowToAcknowledge": "Please cite the DOI for this OpenNeuro repository and, if appropriate, the publication (link TBD).",
+    "Funding": [
+        "Air Force Research Laboratory"
+    ],
+    "ReferencesAndLinks": [
+        "See here for behavioral data and computational derivatives: https://github.com/kalexandriabond/corticostriatal_competition_slows_evidence_accumulation"
+    ],
+    "DatasetDOI": "TBD"
+}
