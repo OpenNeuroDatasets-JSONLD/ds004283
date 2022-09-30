@@ -11,17 +11,19 @@ Data were acquired from 8/5/19 to 11/24/20, with a break due to the COVID-19 pan
 
 ### Tasks
 
-Perceptual discrimination criterion task
+#### Perceptual discrimination criterion task
 The experiment used male and female Greebles as selection targets. Participants were first trained to discriminate between male and female Greebles to prevent errors in perceptual discrimination from interfering with selection on the basis of value. Using a two-alternative forced choice task, participants were presented with a male and female Greeble and asked to select the female, with the male and female Greeble identities resampled on each trial. Participants received binary feedback regarding their selection (correct or incorrect). This criterion task ended after participants reached 95% accuracy.  
 
-Reinforcement learning task
+#### Reinforcement learning task
 After reaching perceptual discrimination criterion for each session, each participant was tested under nine reinforcement learning conditions composed of 300 trials each (60 trials per run, 5 runs per session), generating 2700 trials per participant in total. Each learning trial presented a male and female Greeble, with the goal of selecting the gender identity of the Greeble that was most rewarding.
 
 Three levels of the probability of reward for the optimal and suboptimal choices (conflict) and how often the optimal choice shifted (volatility) were independently manipulated for a total of nine conditions.  
 
-### Dependent variables: Reaction time, binary accuracy data, and trial-by-trial BOLD signal.
+### Dependent variables
+Reaction time, binary accuracy data, and trial-by-trial BOLD signal.
 
-### Quality assessment of the data: Imaging quality was assessed using MRIQC. See /derivatives/neuroloki_RL_task_QC.csv for QC logs by session and subject. 
+### Quality assessment of the data
+Imaging quality was assessed using MRIQC. See /derivatives/neuroloki_RL_task_QC.csv for QC logs by session and subject. 
 
 ## Methods
 
