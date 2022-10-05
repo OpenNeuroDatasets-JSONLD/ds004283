@@ -42,17 +42,21 @@ To prevent motion-related artifacts, a head case was customized for each partici
 ### Initial setup
 
 The participant was checked for ferromagnetic objects, then placed on the scanning table. They were outfitted with the following apparatus to capture physiological measures:
-- ECG
-- Pulse oximeter
-- Respiration belt
+* ECG
+* Pulse oximeter
+* Respiration belt
 In addition, eye-tracking data, including pupillary measurements and gaze position, were recorded. Head cases were worn throughout scanning for each of nine sessions.
 
 ### Task organization
 
 Each session included the following steps:
+
 0) Perceptual discrimination task for male and female Greebles. Participants were required to reach 95% accuracy before proceeding with the scan.
+
 1) Eye-tracking calibration and validation. Button wands intended for left/right responses were verified to be in the left and right hands.
+
 2) Test of pupillary range as a function of sinusoidal luminance.
+
 3) Reinforcement learning task. Specific manipulations imposed were ordered pseudorandomly and are described in the reward_condition_key.csv and reward_condition_order.csv files found in /experimental_details.
 
 ### Task details
