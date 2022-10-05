@@ -42,9 +42,13 @@ To prevent motion-related artifacts, a head case was customized for each partici
 ### Initial setup
 
 The participant was checked for ferromagnetic objects, then placed on the scanning table. They were outfitted with the following apparatus to capture physiological measures:
+
 * ECG
+
 * Pulse oximeter
+
 * Respiration belt
+
 In addition, eye-tracking data, including pupillary measurements and gaze position, were recorded. Head cases were worn throughout scanning for each of nine sessions.
 
 ### Task organization
